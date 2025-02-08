@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Tahoma, sans-serif; /* Schriftart auf Tahoma ändern */
+    background-image: url('file:///C:/Users/kolba/Desktop/Project%20Webpage/Pic.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Abdunkelung des Hintergrunds */
+    color: #fff; /* Schriftfarbe weiß */
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    font-weight: bold; /* "Peatz" fett */
+}
+
+.subtext {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 20px;
+}
