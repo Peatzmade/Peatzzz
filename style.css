@@ -6,7 +6,8 @@ body {
     height: 100vh;
     margin: 0;
     font-family: Tahoma, sans-serif; /* Schriftart auf Tahoma ändern */
-    background-image: url('Pic.jpg'); /* Bild im selben Verzeichnis wie HTML und CSS */
+    background-image: url('https://username.github.io/Peatzzz/Pic.jpg
+'); /* Bild im selben Verzeichnis wie HTML und CSS */
     background-size: cover;
     background-position: center;
     background-color: rgba(0, 0, 0, 0.5); /* Abdunkelung des Hintergrunds */
