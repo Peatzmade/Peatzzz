@@ -6,7 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     font-family: Tahoma, sans-serif; /* Schriftart auf Tahoma ändern */
-    background-image: url('file:///C:/Users/kolba/Desktop/Project%20Webpage/Pic.jpg');
+    background-image: url('images/Pic.jpg'); /* Angenommener Pfad zum Bild im Repository */
     background-size: cover;
     background-position: center;
     background-color: rgba(0, 0, 0, 0.5); /* Abdunkelung des Hintergrunds */
